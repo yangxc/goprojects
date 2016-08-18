@@ -1,0 +1,2 @@
+# goprojects
+用于测试在Bluemix进行go开发，并测试Bluemix形成demo
