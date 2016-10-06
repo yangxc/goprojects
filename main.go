@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	service "github.com/yangxc/yangxc-gogo"
+	service "github.com/yangxc/yangxcgogo/service"
 )
 
 func main() {
